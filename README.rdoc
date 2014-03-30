@@ -2,15 +2,13 @@
 
 ビジネスモデルキャンパスの登録更新を行うアプリです
 
-```shell
+
+* 取得方法
+
  $ git clone biscan git@github.com:kazuaking/biscan.git
-```
-
-```
 
 
-
-### TODO
+=== TODO
 
 * twitter biitstrap
 * login機能
